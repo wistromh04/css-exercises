@@ -93,3 +93,8 @@ button.cancel {
 .text {
   margin-bottom: 16px;
 }
+
+.center {
+  display: flex;
+  align-items: center;
+}
